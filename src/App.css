@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  background-color: #282c34;
+  height: 10vh;
+  width: 100vw;
+  position: relative;
+  
+  
+}
+
+.navbar ul{
+  display: flex;
+  flex-direction: row;
+  
+  color: antiquewhite;
+  
+  
+  
+}
+.navbar ul li{
+  margin-right: 150px;
+margin-top: 20px;
+
+}
+a{
+  color: antiquewhite;
+}
+textarea{
+  color: rgb(2, 2, 2);
+  width: 100vw;
+  width: 50vh;
+  border: 1px solid rgb(230, 176, 196);
+}
+.b1 button{
+  background-color: aquamarine;
+
+  display:flex;
+  flex-direction: column;
+}
+
+
